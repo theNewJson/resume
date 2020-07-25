@@ -7,11 +7,14 @@ Willing to dive deep into questions.
 
 Enjoy building apps with good user experience and performance.
 
-#### Full-stack engineer
-email: jason5540105@gmail.com linkedin: [link](https://www.linkedin.com/in/chi-chen-chang-a448b813b/) github: [link](https://github.com/theNewJson)
+email: jason5540105@gmail.com
 
-### Skills
-#### Programming Language
+linkedin: [link](https://www.linkedin.com/in/chi-chen-chang-a448b813b/)
+
+github: [link](https://github.com/theNewJson)
+
+## Skills
+### Programming Language
 * Familiar：
 JavaScript/ECMAScript(ES6+)、NodeJs、TypeScript
 * Basic：
@@ -25,7 +28,7 @@ yarn、git、Jest、react-testing-library
 * Database：
 MongoDB
 
-### Language Proficiency
+## Language Proficiency
 * Chinese：
 Native
 * English：
@@ -33,9 +36,9 @@ TOEIC985、TOEFL iBT 107
 * Japanese：
 JLPT N3
 
-### Experience
-#### Full Stack Engineer
-##### *SOV dental* / *July, 2018 - now*
+## Experience
+### Full Stack Engineer
+#### *SOV dental* / *July, 2018 - now*
   * ERP system：
     * Tech stack: TypeScript, ReactJS (with hooks), Express, Apollo GraphQL, MongoDB.
     * Refactor backend api for task manage system(core business logic) for better scaling and migrate related database schema.
@@ -47,20 +50,20 @@ JLPT N3
     * Developed with ReactJS, Next.js, Express and GraphQL.
     * Implemented RWD with UI/UX designer.
     * Use styled components to write reusable UI components.
-#### Summer Intern
-##### *Industrial Technology Research Institute* / *July, 2015 - August, 2015*
+### Summer Intern
+#### *Industrial Technology Research Institute* / *July, 2015 - August, 2015*
   * Assisted developing android communication application
 
-### Education
-#### *University of Minnesota, Twin Cities*
-##### Student exchange program / *September, 2016 - January, 2017*
+## Education
+### *University of Minnesota, Twin Cities*
+#### Student exchange program / *September, 2016 - January, 2017*
 * Courses: Computer Networks, Intro. to Operating System, Advanced Programming Principles(functional programming Clojure)
-#### *National Tsing-Hua University*
-##### Undergraduate Program of Electrical Engineering and Computer Science / *2013 - 2017*
+### *National Tsing-Hua University*
+#### Undergraduate Program of Electrical Engineering and Computer Science / *2013 - 2017*
 * Courses: algorithm, data structure, computer architecture and software development.
 
-### Side Projects
-#### Smart Traveler
+## Side Projects
+### Smart Traveler
 A simple trip planning website. 
 Build with a partner.
 Use point of interest from google map to create trip schedules.
