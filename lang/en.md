@@ -7,11 +7,7 @@ Willing to dive deep into questions.
 
 Enjoy building apps with good user experience and performance.
 
-email: jason5540105@gmail.com
-
-linkedin: [link](https://www.linkedin.com/in/chi-chen-chang-a448b813b/)
-
-github: [link](https://github.com/theNewJson)
+jason5540105@gmail.com &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp; [linkedin](https://www.linkedin.com/in/chi-chen-chang-a448b813b/) &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp; [github](https://github.com/theNewJson)
 
 ## Skills
 ### Programming Language
@@ -63,7 +59,7 @@ JLPT N3
 * Courses: algorithm, data structure, computer architecture and software development.
 
 ## Side Projects
-### Smart Traveler
+### *Smart Traveler*
 A simple trip planning website. 
 Build with a partner.
 Use point of interest from google map to create trip schedules.
