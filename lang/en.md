@@ -7,6 +7,7 @@ Willing to dive deep into questions.
 
 Enjoy building apps with good user experience and performance.
 
+Feel free to contact me with:
 jason5540105@gmail.com &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp; [linkedin](https://www.linkedin.com/in/chi-chen-chang-a448b813b/) &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp; [github](https://github.com/theNewJson)
 
 ## Skills

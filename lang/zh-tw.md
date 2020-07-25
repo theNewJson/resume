@@ -5,6 +5,7 @@
 
 以產品的使用者體驗以及效能為首要目標
 
+請透過下列方式聯繫我：
 jason5540105@gmail.com &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp; [linkedin](https://www.linkedin.com/in/chi-chen-chang-a448b813b/) &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp; [github](https://github.com/theNewJson)
 
 ## 技能
