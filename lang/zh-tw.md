@@ -22,6 +22,8 @@ ReactJS (16.8+)、Apollo GraphQL、ExpressJS
 yarn、git、Jest、react-testing-library
 * 資料庫：
 MongoDB
+* 其他：
+styled-components、Ant Design
 
 ## 語言能力
 * 中文：
@@ -35,16 +37,15 @@ JLPT N3
 ### 全端工程師
 #### *SOV dental* &nbsp;&nbsp;/&nbsp;&nbsp; *2018 . 7 - 現在*
   * ERP 系統
-    * 使用技術: TypeScript, ReactJS (with hooks), Express, Apollo GraphQL, MongoDB.
-    * 重構後端任務管理系統的 API (核心業務邏輯)，以增加可擴展性並且進行資料庫的遷移。
-    * 實作使用者驗證相關邏輯，並且重構舊有的 express middleware
+    * 使用技術: TypeScript, ReactJS (with hooks), Express, Apollo GraphQL, MongoDB
+    * 將前端元件以 hooks 、 GraphQL 以及 TypeScript 進行重構
+    * 開發即時聊天系統，使用 GraphQL subscripttion 傳送即時訊息並實作cursor-based pagination 以支援無限捲動
     * 使用 jest 以及 react-testing-library 撰寫後端 api 以及前端頁面的測試
-    * 開發即時聊天系統，使用 GraphQL subscripttion 並支援無限捲動
-    * 協助將專案從 commonJS 以及就有 RESTful API 遷移成 TypeScript 以及 GraphQL API
+    * 實作使用者驗證相關邏輯，並且重構舊有的 express middleware
   * 公司新版官網：
     * 使用 ReactJS, Next.js, Express 以及 GraphQL 進行開發
     * 與 UI/UX 設計師 討論並實作響應式設計頁面
-    * 使用 styled components 撰寫可複用的 UI 元件.
+    * 使用 styled components 撰寫可複用的 UI 元件
 ### 暑期實習
 #### *工業技術研究院* &nbsp;&nbsp;/&nbsp;&nbsp; *2015 . 7 - 2015 . 8*
   * 協助開發 Android 通訊軟體
