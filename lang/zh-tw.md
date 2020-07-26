@@ -41,6 +41,7 @@ JLPT N3
     * 將前端元件以 hooks 、 GraphQL 以及 TypeScript 進行重構
     * 開發即時聊天系統，使用 GraphQL subscripttion 傳送即時訊息並實作cursor-based pagination 以支援無限捲動
     * 使用 jest 以及 react-testing-library 撰寫後端 api 以及前端頁面的測試
+    * 重構後端任務管理系統的 API (核心業務邏輯)，以增加可擴展性並且進行資料庫的遷移。
     * 實作使用者驗證相關邏輯，並且重構舊有的 express middleware
   * 公司新版官網：
     * 使用 ReactJS, Next.js, Express 以及 GraphQL 進行開發
